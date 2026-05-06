@@ -13,3 +13,7 @@ wheels/
 
 #project related files
 project_details.txt
+
+
+#jupyter related files
+.ipynb_checkpoints/
